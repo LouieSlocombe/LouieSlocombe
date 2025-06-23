@@ -24,10 +24,10 @@ I'm a postdoctoral researcher and lab manager at Arizona State University. I am 
 
 | Year | Title | Venue |
 |------|-------|-------|
-| 2021 | Quantum biology: An update and perspective | Quantum Reports |
-| 2022 | An open quantum systems approach to proton tunnelling in DNA | Nature Communications Physics |
-| 2023 | Multiscale simulations reveal the role of PcrA helicase in protecting against spontaneous point mutations in DNA | Nature Scientific Reports |
-| 2025 | The Emergence of Chirality from Metabolism | arXiv |
+| 2021 | Quantum biology: An update and perspective | [Quantum Reports](https://www.mdpi.com/2624-960X/3/1/6) |
+| 2022 | An open quantum systems approach to proton tunnelling in DNA | [Nature Communications Physics](https://www.nature.com/articles/s42005-022-00881-8) |
+| 2023 | Multiscale simulations reveal the role of PcrA helicase in protecting against spontaneous point mutations in DNA | [Nature Scientific Reports](https://www.nature.com/articles/s41598-023-48119-z) |
+| 2025 | The Emergence of Chirality from Metabolism | [arXiv](https://arxiv.org/abs/2505.01056) |
 
 ## 🛠️ Featured Code
 
@@ -41,4 +41,6 @@ I'm a postdoctoral researcher and lab manager at Arizona State University. I am 
 
 - Email • lslocomb (at) asu.edu
 - X • [@Louie Slocombe](https://x.com/louieslocombe)
+- ResearchGate • [@Louie Slocombe](https://www.researchgate.net/profile/Louie-Slocombe?ev=hdr_xprf)
+- ORCiD • [Louie Slocombe](https://orcid.org/0000-0002-6986-5526)
 
