@@ -33,6 +33,7 @@ I'm a postdoctoral researcher and lab manager at Arizona State University. I am 
 
 | Project | Description |
 |---------|-------------|
+| [assemblycfg](https://github.com/ELIFE-ASU/assemblycfg) | String assembly index calculator using the smallest grammar re-pair algorithm. 
 | [CBRdb](https://github.com/ELIFE-ASU/CBRdb) | A curated biochemical database that integrates and refines data from KEGG and ATLAS databases to support precise analyses of biochemical reaction data. |
 | [HEOM.jl](https://github.com/LouieSlocombe/HEOM.jl) | Hierarchical Equations of Motion in Julia to simulate open quantum systems. |
 
