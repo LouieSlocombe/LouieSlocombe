@@ -33,6 +33,7 @@ I'm a postdoctoral researcher and lab manager at Arizona State University. I am 
 
 | Project | Description |
 |---------|-------------|
+| [assemblytheorytools](https://github.com/ELIFE-ASU/assemblytheorytools) | A centralised set of tools for doing assembly theory calculations. Assembly theory is a framework that aims to quantify the complexity of objects by considering the minimal number of steps needed to assemble them from their fundamental building blocks. It essentially treats objects not as simple particles, but as entities defined by their possible formation histories, and it provides a way to measure how much selection was required to produce a given object or set of objects.
 | [assemblycfg](https://github.com/ELIFE-ASU/assemblycfg) | String assembly index calculator using the smallest grammar re-pair algorithm. 
 | [CBRdb](https://github.com/ELIFE-ASU/CBRdb) | A curated biochemical database that integrates and refines data from KEGG and ATLAS databases to support precise analyses of biochemical reaction data. |
 | [HEOM.jl](https://github.com/LouieSlocombe/HEOM.jl) | Hierarchical Equations of Motion in Julia to simulate open quantum systems. |
