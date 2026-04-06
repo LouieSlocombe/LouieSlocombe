@@ -11,7 +11,7 @@
 </p>
 
 ## 🧬 About Me
-I'm a postdoctoral researcher and lab manager at Arizona State University. I am interested in understanding how life utilises chemistry, by any means necessary, to function. I have a background in theoretical physics and chemistry, and I apply it to biological systems.
+I'm a postdoctoral researcher and lab manager at Arizona State University. I am interested in understanding how life utilises chemistry to function. I have a background in theoretical physics and chemistry, and I apply it to biological systems.
 
 ## 🧠 Research Focus
 
