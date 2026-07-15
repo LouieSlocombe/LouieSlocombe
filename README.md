@@ -41,7 +41,7 @@ I'm a postdoctoral researcher and lab manager at the University of Birmingham. I
 
 ## 🤝 Let’s Connect
 
-- Email • lslocomb (at) asu.edu
+- Email • l.slocombe (at) bham.ac.uk
 - X • [@Louie Slocombe](https://x.com/louieslocombe)
 - ResearchGate • [@Louie Slocombe](https://www.researchgate.net/profile/Louie-Slocombe?ev=hdr_xprf)
 - ORCiD • [Louie Slocombe](https://orcid.org/0000-0002-6986-5526)
