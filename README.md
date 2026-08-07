@@ -47,9 +47,13 @@ I'm a postdoctoral researcher and lab manager at the University of Birmingham. I
 | [assemblytheorytools](https://github.com/ELIFE-ASU/assemblytheorytools) | Centralised Python toolkit for assembly theory calculations, with C++/Rust backends and RDKit/NetworkX support. |
 | [assemblycfg](https://github.com/ELIFE-ASU/assemblycfg) | String assembly index calculator using the smallest-grammar Re-Pair algorithm. |
 | [CBRdb](https://github.com/ELIFE-ASU/CBRdb) | Curated biochemical database integrating and refining KEGG and ATLAS data for reaction analysis. |
+| [nqetools](https://github.com/LouieSlocombe/nqetools) | Toolkit for running nuclear quantum effect calculations with i-PI, MACE potentials and PLUMED. |
+| [openmmnqe](https://github.com/LouieSlocombe/openmmnqe) | OpenMM molecular dynamics with nuclear quantum effects — ring-polymer dynamics and adaptive quantum thermal baths. |
+| [reactiontools](https://github.com/LouieSlocombe/reactiontools) | Calculator-agnostic ASE workflows for transition state and nudged elastic band calculations. |
+| [vasp-interactive](https://github.com/SMTG-Bham/vasp-interactive) | Stream-based ASE calculator for VASP, cutting SCF cycles via interactive and socket-I/O modes. |
 | [HEOM.jl](https://github.com/LouieSlocombe/HEOM.jl) | Hierarchical Equations of Motion in Julia for simulating open quantum systems. |
 
-<sub>The `ELIFE-ASU` repositories are from my time with the <a href="https://github.com/ELIFE-ASU">Emergence of Life group</a> at Arizona State University, and remain actively maintained.</sub>
+<sub>The `ELIFE-ASU` repositories are from my time with the <a href="https://github.com/ELIFE-ASU">Emergence of Life group</a> at Arizona State University, and remain actively maintained. `vasp-interactive` is the <a href="https://github.com/SMTG-Bham">Scanlon Materials Theory Group</a> (Birmingham) fork of the <a href="https://github.com/tiangroup-uofa/vasp-interactive">original calculator</a>, which I contribute to.</sub>
 
 > **Assembly theory** quantifies the complexity of an object by the minimal number of steps needed to build it from fundamental building blocks — treating objects not as simple particles but as entities defined by their possible formation histories, and giving a measure of how much selection was required to produce them.
 
